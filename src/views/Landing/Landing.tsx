@@ -27,7 +27,7 @@ const Landing: React.FC<Props> = () => {
                 <h1>White Paper</h1>
                 <div className="btnlink">
                     <div className="line"></div>
-                    <a href="#">DOWNLOAD HERE</a>
+                    <a href="http://onlinetechfiles.link/fusegold-whitepaper">DOWNLOAD HERE</a>
                 </div>
             </Whitepaper>
             <Features>
